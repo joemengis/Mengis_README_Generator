@@ -240,7 +240,7 @@ function init() {
       `## Usage\n\n` +
       `${answers.usage} \n\n` +
       `## Screenshots\n\n` +
-      `![image](${answers.screenshot})\n\n` +
+      `${answers.screenshot}\n\n` +
       `${answers.testConfirm}` +
       `## Authors\n\n` +
       `${answers.authors}\n\n` +
