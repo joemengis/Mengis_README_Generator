@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a CLI application that will prompt questions and generate a ReadMe from your answers. 
+Create a CLI application that will prompt questions and generate a ReadMe from your answers.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ cd into the app directory.  Run the command "node index.js." Answer all question
 
 ## Usage
 
-CLI application that will prompt questions and generate a ReadMe from your  
+CLI application that will prompt questions and generate a ReadMe from your answers. cd into the app directory.  Run the command "node index.js." Answer all questions when prompted.  New ReadMe will populate in the app directory. 
 
 ## Screenshots
 
@@ -36,7 +36,7 @@ CLI application that will prompt questions and generate a ReadMe from your
 
 ## License
 
-MIT License Copyright (c) 2020 Joseph Mengis
+MIT License Copyright (c) 2020 Joe Mengis
             
             Permission is hereby granted, free of charge, to any person obtaining a copy
             of this software and associated documentation files (the "Software"), to deal
@@ -58,7 +58,7 @@ MIT License Copyright (c) 2020 Joseph Mengis
 
 ## Badges
 
-![badgeLogo](https://img.shields.io/badge/MIT-Mengis-orange?style=flat&logo=undefined)
+![badgeLogo](https://img.shields.io/badge/Mengis-v.2-blue?style=plastic&logo=undefined)
 
 ## Questions
 
