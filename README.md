@@ -28,7 +28,7 @@ CLI application that will prompt questions and generate a ReadMe from your answe
 
 ## Screenshots
 
-"https://user-images.githubusercontent.com/62780709/95710376-61d30d00-0c15-11eb-95f2-0d459dd1250c.png"
+https://user-images.githubusercontent.com/62780709/95710376-61d30d00-0c15-11eb-95f2-0d459dd1250c.png
 
 ## Authors
 
