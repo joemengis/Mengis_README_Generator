@@ -26,6 +26,10 @@ cd into the app directory.  Run the command "node index.js." Answer all question
 
 CLI application that will prompt questions and generate a ReadMe from your answers. cd into the app directory.  Run the command "node index.js." Answer all questions when prompted.  New ReadMe will populate in the app directory. 
 
+Link to video walk through of application
+
+https://youtu.be/qmrRbLkviDA
+
 ## Screenshots
 
 <img width="969" alt="ReadMe Screenshot" src="https://user-images.githubusercontent.com/62780709/95710376-61d30d00-0c15-11eb-95f2-0d459dd1250c.png">
